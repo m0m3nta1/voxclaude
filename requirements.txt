@@ -1,0 +1,10 @@
+discord.py[voice]==2.7.1
+discord-ext-voice-recv @ git+https://github.com/imayhaveborkedit/discord-ext-voice-recv
+faster-whisper>=1.2
+edge-tts>=7.0
+google-genai>=1.0
+numpy>=1.26
+python-dotenv>=1.0
+
+# GPU acceleration for faster-whisper (optional, ~1.3 GB):
+# pip install nvidia-cublas-cu12 nvidia-cudnn-cu12
